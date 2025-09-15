@@ -20,7 +20,7 @@ Play against the computer, keep track of scores, and reset anytime.
 - **Modules Used**: `random`  
 
 ## 📷 Screenshot
-[Rock-Paper-Scissors Screenshot](Screenshot 1.png)
+[Rock-Paper-Scissors Screenshot](Screenshot1.png)
 
 
 
