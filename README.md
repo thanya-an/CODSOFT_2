@@ -25,4 +25,4 @@ Play against the computer, keep track of scores, and reset anytime.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/thanya-an/CODSOFT.git
+ https://github.com/thanya-an/CODSOFT_2.git
