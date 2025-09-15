@@ -21,8 +21,5 @@ Play against the computer, keep track of scores, and reset anytime.
 
 
 
-## 🚀 How to Run
 
-1. Clone the repository:
-   ```bash
  https://github.com/thanya-an/CODSOFT_2.git
