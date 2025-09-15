@@ -19,6 +19,8 @@ Play against the computer, keep track of scores, and reset anytime.
 - **GUI Library**: Tkinter  
 - **Modules Used**: `random`  
 
+## 📷 Screenshot
+[Rock-Paper-Scissors Screenshot](Screenshot 1.png)
 
 
 
